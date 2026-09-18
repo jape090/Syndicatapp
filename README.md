@@ -1,2 +1,3 @@
-# Syndicatapp
-syndicate is a mobiel applicaton
+# agriplant
+
+Agriculture plant app
